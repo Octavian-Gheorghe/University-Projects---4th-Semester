@@ -1,0 +1,70 @@
+======================================================================================================================================
+Time taken for a bubble sort of integers: 00:00:00.0017655ms
+Time taken for a gnome sort of integers: 00:00:00.0013847ms
+Time taken for a heap sort of integers: 00:00:00.0010347ms
+Time taken for a merge sort of integers: 00:00:00.0011625ms
+Time taken for a quick sort of integers: 00:00:00.0009318ms
+======================================================================================================================================
+======================================================================================================================================
+Time taken for a bubble sort of integers: 00:00:00.0012530ms
+Time taken for a gnome sort of integers: 00:00:00.0008427ms
+Time taken for a heap sort of integers: 00:00:00.0010133ms
+Time taken for a merge sort of integers: 00:00:00.0011914ms
+Time taken for a quick sort of integers: 00:00:00.0009440ms
+======================================================================================================================================
+======================================================================================================================================
+Time taken for a bubble sort of integers: 00:00:00.0015616ms
+Time taken for a gnome sort of integers: 00:00:00.0008146ms
+Time taken for a heap sort of integers: 00:00:00.0010193ms
+Time taken for a merge sort of integers: 00:00:00.0011170ms
+Time taken for a quick sort of integers: 00:00:00.0008657ms
+======================================================================================================================================
+======================================================================================================================================
+Time taken for a bubble sort of integers: 00:00:00.0015014ms
+Time taken for a gnome sort of integers: 00:00:00.0008511ms
+Time taken for a heap sort of integers: 00:00:00.0009959ms
+Time taken for a merge sort of integers: 00:00:00.0011870ms
+Time taken for a quick sort of integers: 00:00:00.0009659ms
+======================================================================================================================================
+======================================================================================================================================
+Time taken for a bubble sort of integers: 00:00:00.0015501ms
+Time taken for a gnome sort of integers: 00:00:00.0009490ms
+Time taken for a heap sort of integers: 00:00:00.0010143ms
+Time taken for a merge sort of integers: 00:00:00.0011716ms
+Time taken for a quick sort of integers: 00:00:00.0009152ms
+======================================================================================================================================
+======================================================================================================================================
+Time taken for a bubble sort of integers: 00:00:00.0014961ms
+Time taken for a gnome sort of integers: 00:00:00.0008703ms
+Time taken for a heap sort of integers: 00:00:00.0009957ms
+Time taken for a merge sort of integers: 00:00:00.0011095ms
+Time taken for a quick sort of integers: 00:00:00.0009201ms
+======================================================================================================================================
+======================================================================================================================================
+Time taken for a bubble sort of integers: 00:00:00.0014035ms
+Time taken for a gnome sort of integers: 00:00:00.0008706ms
+Time taken for a heap sort of integers: 00:00:00.0010750ms
+Time taken for a merge sort of integers: 00:00:00.0011222ms
+Time taken for a quick sort of integers: 00:00:00.0009012ms
+======================================================================================================================================
+======================================================================================================================================
+Time taken for a bubble sort of integers: 00:00:00.0017257ms
+Time taken for a gnome sort of integers: 00:00:00.0008355ms
+Time taken for a heap sort of integers: 00:00:00.0010267ms
+Time taken for a merge sort of integers: 00:00:00.0011493ms
+Time taken for a quick sort of integers: 00:00:00.0009493ms
+======================================================================================================================================
+======================================================================================================================================
+Time taken for a bubble sort of integers: 00:00:00.0020691ms
+Time taken for a gnome sort of integers: 00:00:00.0013281ms
+Time taken for a heap sort of integers: 00:00:00.0012118ms
+Time taken for a merge sort of integers: 00:00:00.0011935ms
+Time taken for a quick sort of integers: 00:00:00.0009405ms
+======================================================================================================================================
+======================================================================================================================================
+Time taken for a bubble sort of integers: 00:00:00.0014989ms
+Time taken for a gnome sort of integers: 00:00:00.0010598ms
+Time taken for a heap sort of integers: 00:00:00.0011046ms
+Time taken for a merge sort of integers: 00:00:00.0011721ms
+Time taken for a quick sort of integers: 00:00:00.0008987ms
+======================================================================================================================================

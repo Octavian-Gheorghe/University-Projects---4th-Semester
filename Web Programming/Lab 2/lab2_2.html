@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            width: 100vw;
+            background-color: #000000;
+        }
+
+        .container {
+            position: relative;
+            width: 25vw; 
+            height: 25vh; 
+        }
+
+        .box {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(100, 4, 102, 0.722); 
+            border: 2px solid #ffffff;
+            box-sizing: border-box;
+            transition: all 1s ease-in-out;
+        }
+
+        .container:hover .box:nth-child(1) { transform: translate(-150%, -150%); top: 0; left: 0; }
+        .container:hover .box:nth-child(2) { transform: translate(150%, -150%); top: 0; right: 0; }
+        .container:hover .box:nth-child(3) { transform: translate(-150%, 150%); bottom: 0; left: 0; }
+        .container:hover .box:nth-child(4) { transform: translate(150%, 150%); bottom: 0; right: 0; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+</div>
+
+</body>
+</html>
