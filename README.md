@@ -1,2 +1,2 @@
-# University-Projects---1st-Semester
-This repository stores most of the projects I worked on during the 1st semester in Babeș-Bolyai University.
+# University-Projects---4th-Semester
+This repository stores all of the projects I worked on during the 1st semester in Babeș-Bolyai University.
