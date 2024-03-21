@@ -1,0 +1,30 @@
+import React from "react";
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//Basic CSS Elements that make the whole Homepage text KIND OF appealing (might make it fancier if i have the time)
+const centerContentStyle = {
+  display: "flex",
+  justifyContent: "center",
+  alignItems: "center",
+  height: "100vh", 
+};
+
+const borderedTextStyle = {
+  border: "2px solid #333",
+  padding: "20px", 
+};
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+export function Home() {
+  return (
+    <div style={centerContentStyle}>
+      <div style={borderedTextStyle}>
+        <h1 className="text-light">Welcome to 💚Spotofyi💚</h1>
+      </div>
+    </div>
+  );
+}
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
